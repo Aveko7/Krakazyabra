@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krakazyabra", "Krakazyabra\Krakazyabra.csproj", "{FFDDD7F7-04C2-4D65-8606-352B099D017A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFDDD7F7-04C2-4D65-8606-352B099D017A}.Debug|x86.ActiveCfg = Debug|x86
+		{FFDDD7F7-04C2-4D65-8606-352B099D017A}.Debug|x86.Build.0 = Debug|x86
+		{FFDDD7F7-04C2-4D65-8606-352B099D017A}.Release|x86.ActiveCfg = Release|x86
+		{FFDDD7F7-04C2-4D65-8606-352B099D017A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Krakazyabra\Krakazyabra.csproj
+	EndGlobalSection
+EndGlobal
