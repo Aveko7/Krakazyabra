@@ -26,7 +26,7 @@ namespace Krakazyabra
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello Krakazyabra");
+			Console.WriteLine ("Hello, dear Krakazyabra");
 		}
 	}
 }
