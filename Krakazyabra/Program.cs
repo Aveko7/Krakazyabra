@@ -26,7 +26,7 @@ namespace Krakazyabra
 	{
 		public static void Main (string[] args)
 		{	
-			Console.WriteLine ("Поочередно введите значения, перед (1)x^2, перед (2)x, свободный коээфициент (3)");
+			Console.WriteLine ("Поочередно введите значения, перед (1)x^2, перед (2)x, свободный коээфициент (3)")
 			double a = Convert.ToDouble(Console.ReadLine());
 			double b = Convert.ToDouble(Console.ReadLine());
 			double c = Convert.ToDouble(Console.ReadLine());
